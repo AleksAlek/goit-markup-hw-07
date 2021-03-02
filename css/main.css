@@ -358,6 +358,32 @@ p {
   letter-spacing: 0.03em;
 }
 
+/*  Header */
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.logo__web {
+  color: #2196f3;
+}
+
+.logo__header {
+  margin-right: 93px;
+}
+
+.logo__footer {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.logo__studio {
+  color: #ffffff;
+}
+
 .page-header {
   border-bottom: 1px solid #ececec;
 }
@@ -629,32 +655,6 @@ p {
 .footer-subscribe__icon {
   margin-left: 10px;
   fill: currentColor;
-}
-
-/*  Header */
-.logo {
-  font-family: 'Raleway', sans-serif;
-  font-size: 26px;
-  line-height: 1.2;
-  letter-spacing: 0.03em;
-  color: #000000;
-}
-
-.logo__web {
-  color: #2196f3;
-}
-
-.logo__header {
-  margin-right: 93px;
-}
-
-.logo__footer {
-  display: inline-block;
-  margin-bottom: 20px;
-}
-
-.logo__studio {
-  color: #ffffff;
 }
 
 .hero {
