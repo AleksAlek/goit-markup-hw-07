@@ -157,7 +157,7 @@
   height: 15px;
   margin-right: 8px;
 
-  background-image: url('../../../images/not-checked.svg');
+  background-image: url('../images/not-checked.svg');
   background-size: contain;
 
   transition: background-image 250ms $transitionTimingFunction;
@@ -173,7 +173,7 @@
   .policy__input:checked + & {
     border: none;
 
-    background-image: url('../../../images/checked.svg');
+    background-image: url('../images/checked.svg');
   }
 }
 
